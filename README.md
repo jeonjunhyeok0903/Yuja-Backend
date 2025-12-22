@@ -1,2 +1,2 @@
-# CertiFind-Backend
-CertiFind 백엔드
+# Yuja-Backend
+유자 백엔드
